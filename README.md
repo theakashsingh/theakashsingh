@@ -1,6 +1,7 @@
+![Design and Development](https://github.com/theakashsingh/theakashsingh/blob/main/profile_banner(2).png)
+
 # 💫 About Me:
 🚀 "I'm an experienced frontend developer with a two-year track record of crafting impactful web experiences. 💻 Proficient in React, JavaScript, TypeScript, HTML, CSS, and SCSS, I wield these tools to blend artistry with functionality, delivering visually stunning and high-performing websites. Each project is a chance to learn, grow, and push boundaries. 🌟 My differentiator is a passion for seamless user experiences. I engineer interfaces that are intuitive, engaging, and performance-oriented, ensuring delightful usability.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrakashsingh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mr_aksh_) 
